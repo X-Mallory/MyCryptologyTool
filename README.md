@@ -1,3 +1,4 @@
+
 # MyCryptologyTool 自己写的密码学工具
 ![GitHub Logo](./效果/主界面.PNG "主界面") 
 
@@ -31,3 +32,9 @@
 支持多种Hash算法的消息摘要值计算
 
 ![GitHub Logo](./效果/hash.PNG "HASH")
+
+***
+
+*联系方式：*
+*博客：[X-Mallory.github.io](https://x-mallory.github.io/)*
+*邮箱：Guoyusu@outlook.com*
