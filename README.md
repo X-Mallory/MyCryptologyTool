@@ -23,8 +23,8 @@
 
 ### HAMC码校验
 对应生成消息认证码的校验
+![GitHub Logo](./效果/HAMC计算.PNG "HAMC计算")
 
-![GitHub Logo](./效果/HAMC校验.PNG "HAMC校验")
 
 ### 消息摘要值计算
 支持多种Hash算法的消息摘要值计算
